@@ -1,5 +1,5 @@
 ### >_ Hello World! :earth_asia:
-My name is Nath and I'm 17 years old. I'm studying at Triamudomsuksa Pattanakarn School :school_satchel:  
+My name is Nath and I'm 18 years old. I'm studying at Triamudomsuksa Pattanakarn School :school_satchel:  
 Now I'm intersting in machine learning and hope to become machine learning engineer in the future :grinning:  
 :computer: :basketball: :ringed_planet:
 
