@@ -1,6 +1,6 @@
 ### >_ Hello World! :earth_asia:
-My name is Nath and I'm 18 years old. I graduated at Triamudomsuksa Pattanakarn :school_satchel:
-I interested in Machine Learning, Computer Vision, HPC and hope to become an software engineer or machine learning engineer.
+My name is Nath and I'm 18 years old. I graduated at Triamudomsuksa Pattanakarn :school_satchel:<br>
+I interested in Machine Learning, Computer Vision, HPC and hope to become an software engineer or machine learning engineer.<br>
 I like to make the open source repos so it can help evryone to make coding life better
 
 ### If you want to follow me
