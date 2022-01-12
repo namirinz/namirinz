@@ -4,7 +4,7 @@ I interested in Machine Learning, Computer Vision, HPC and hope to become an sof
 I like to make the open source repos so it can help evryone to make coding life better
 
 ### If you want to follow me
-Medium: https://medium.com/@nathmcfc31115
+Medium: https://medium.com/@nathmcfc31115<br>
 Linkedin: https://www.linkedin.com/in/nath-prachayakul-8b9b751b1/  
 You can follow more of my projects down here :point_down: :point_down:
 
