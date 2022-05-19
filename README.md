@@ -8,6 +8,16 @@ Medium: https://medium.com/@nathmcfc31115<br>
 Linkedin: https://www.linkedin.com/in/nath-prachayakul-8b9b751b1/  
 You can follow more of my projects down here :point_down: :point_down:
 
+<br>
+
+### 🔨 Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,tensorflow,pytorch" />
+  </a>
+</p>
+<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api?username=namirinz&count_private=true&show_icons=true" height=165/>
 </a>
