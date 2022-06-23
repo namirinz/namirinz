@@ -43,5 +43,3 @@ I like to make the open source repos so it can help evryone to make coding life 
     <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,git,docker"/>
   </a>
 </p>
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
