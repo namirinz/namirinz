@@ -21,20 +21,6 @@ I like to make the open source repos so it can help evryone to make coding life 
 <br>
 
 <hr>
-<h2 align="center">Kaggle</h2>
-<br>
-<p align="center">
-    <a href='https://kaggle.com/namirinz'>
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/namirinz/competition" />
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/namirinz/dataset" />
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/namirinz/notebook" />
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/namirinz/discussion" />
-    </a>
-</p>
-
-<br>
-
-<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <br>
