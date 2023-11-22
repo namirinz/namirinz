@@ -10,10 +10,7 @@
 <br>
 
 ### >_ Hello World! :earth_asia:
-My name is Nath and I'm 18 years old. I graduated at Triamudomsuksa Pattanakarn :school_satchel:<br>
-I interested in Machine Learning, Computer Vision, HPC and hope to become an software engineer or machine learning engineer.<br>
-I like to make the open source repos so it can help evryone to make coding life better
-
+Nath is a Computer Engineering student at Kasetsart University and has a Machine Learning, Natural Language Processing and Computer Vision development background. He currently focuses on developing, maintaining, and deploying a machine learning project. His main programming languages are Python, C, and C++. The machine learning frameworks and tools that he was familiar with are TensorFlow, Pytorch, Scikit-learn, MLFlow and DVC. 
 
 <br>
 
